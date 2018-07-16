@@ -1,0 +1,25 @@
+body{
+
+}
+.jumbotron {
+  min-height: 600px;
+  background-image: url('images/thabie.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-size: 80px;
+  color: silver;
+  font-style: italic;
+}
+
+div {
+  color: brown;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.para1 p {
+  color:yellow;
+}

@@ -1,0 +1,40 @@
+
+h1 {
+color: pink;
+font-family: 'Helvetica';
+font-size: 100px;
+}
+
+h2 {
+  color: brown;
+  font-family: fantasy;
+  font-size: 40px;
+}
+ p {
+   color: green;
+ }
+
+.list1 li{
+  color: green;
+  font-size: 40px;
+}
+body{
+
+}
+.jumbotron {
+  min-height: 600px;
+  background-image: url('images/closet.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p {
+  font-size: 40px;
+}
